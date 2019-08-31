@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Runtime.Remoting.Messaging;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 //Создайте консольное приложение, в котором организуйте асинхронный вызов метода.
 //Используя конструкцию BeginInvoke передайте в поток некоторую информацию (возможно, в
 //формате строки). Организуйте обработку переданных данных в callback методе.
@@ -22,6 +18,7 @@ namespace Task2
             string str = "Дополнительная информация в виде строки";
             //Передоваемый аргумент в Method, делегат AsyncCallback, Дополнительный обьект
             deleg.BeginInvoke(25, callback, str);
+            Console.WriteLine("Для выхода нажмите любую кнопку...");
             Console.ReadKey();
         }
         /// <summary>

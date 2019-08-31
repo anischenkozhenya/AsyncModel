@@ -1,0 +1,10 @@
+E:\AsyncModel\AsyncModel\Task2\Task1\bin\Debug\Task1.exe.config
+E:\AsyncModel\AsyncModel\Task2\Task1\bin\Debug\Task1.exe
+E:\AsyncModel\AsyncModel\Task2\Task1\bin\Debug\Task1.pdb
+E:\AsyncModel\AsyncModel\Task2\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+E:\AsyncModel\AsyncModel\Task2\Task1\obj\Debug\Task1.Form1.resources
+E:\AsyncModel\AsyncModel\Task2\Task1\obj\Debug\Task1.Properties.Resources.resources
+E:\AsyncModel\AsyncModel\Task2\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+E:\AsyncModel\AsyncModel\Task2\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\AsyncModel\AsyncModel\Task2\Task1\obj\Debug\Task1.exe
+E:\AsyncModel\AsyncModel\Task2\Task1\obj\Debug\Task1.pdb
