@@ -1,0 +1,7 @@
+E:\AsyncModel\AsyncModel\Task2\Task2\bin\Debug\Task2.exe.config
+E:\AsyncModel\AsyncModel\Task2\Task2\bin\Debug\Task2.exe
+E:\AsyncModel\AsyncModel\Task2\Task2\bin\Debug\Task2.pdb
+E:\AsyncModel\AsyncModel\Task2\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+E:\AsyncModel\AsyncModel\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+E:\AsyncModel\AsyncModel\Task2\Task2\obj\Debug\Task2.exe
+E:\AsyncModel\AsyncModel\Task2\Task2\obj\Debug\Task2.pdb
